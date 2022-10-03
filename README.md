@@ -6,8 +6,7 @@ __These are some collections of Javascript languages projects__
 ## Contributing rules
 __Open to people who are new to Javascript and/or students learning to contribute to the open source community__
 
-* You can upload your simple project, testing project, or simple projects from studying
-here for learning how to contribute in open source projects!
+* You can upload your simple project, testing project, or simple projects when studying javascript for learning how to contribute in open source projects!
 * Don't edit the README.md files or your pull request will be rejected
 
 ## How to contribute
